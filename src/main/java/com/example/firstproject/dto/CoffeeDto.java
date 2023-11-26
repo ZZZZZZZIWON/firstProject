@@ -6,7 +6,7 @@ import lombok.Getter;
 
 @AllArgsConstructor
 @Getter
-public class CoffeeDTO {
+public class CoffeeDto {
     private Long id;
 
     private String name;
